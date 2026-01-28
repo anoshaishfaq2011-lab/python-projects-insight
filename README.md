@@ -37,7 +37,7 @@ The **Amazon Analytical Dashboard** provides a comprehensive view of product per
 
 ## 📂 Attached File
 The dashboard image is included in this repository for reference.  
-Make sure the image file is saved in the same folder as this README, then link it like so:
+
 
 ```markdown
 ![Amazon Analytical Dashboard](Amazon_Analytical_Dashboard.png)
